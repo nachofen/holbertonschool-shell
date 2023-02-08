@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p /root/holbertonschool-shell/basics/welcome/to/school 
