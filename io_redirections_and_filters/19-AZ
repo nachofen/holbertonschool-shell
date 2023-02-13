@@ -1,0 +1,2 @@
+#!/bin/bash
+tr '0-4' A | tr '6-9' B
