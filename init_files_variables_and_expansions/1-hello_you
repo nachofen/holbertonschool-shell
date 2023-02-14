@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello" W whoami
+echo "hello" $USER
